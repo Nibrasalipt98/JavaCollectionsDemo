@@ -8,7 +8,7 @@ import java.util.Arrays;
 public class ArrayListDemo3 {
 
 	public static void main(String[] args) {
-		
+		//nibras
 		// Create an array of String type
         String[] arr = {"Dog", "Cat", "Horse"};
       
